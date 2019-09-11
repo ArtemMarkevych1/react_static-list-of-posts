@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_static-list-of-posts/static/css/main.64d3b84c.chunk.css",
+    "main.css": "/react_static-list-of-posts/static/css/main.15b91403.chunk.css",
     "main.js": "/react_static-list-of-posts/static/js/main.f03af98a.chunk.js",
     "main.js.map": "/react_static-list-of-posts/static/js/main.f03af98a.chunk.js.map",
     "runtime~main.js": "/react_static-list-of-posts/static/js/runtime~main.c48bb6e1.js",
@@ -8,8 +8,8 @@
     "static/js/2.8047aade.chunk.js": "/react_static-list-of-posts/static/js/2.8047aade.chunk.js",
     "static/js/2.8047aade.chunk.js.map": "/react_static-list-of-posts/static/js/2.8047aade.chunk.js.map",
     "index.html": "/react_static-list-of-posts/index.html",
-    "precache-manifest.19c7c8e1ecf16e252750f606cf2ea0ae.js": "/react_static-list-of-posts/precache-manifest.19c7c8e1ecf16e252750f606cf2ea0ae.js",
+    "precache-manifest.cf0cf4d1487af993da8e33794f0d1328.js": "/react_static-list-of-posts/precache-manifest.cf0cf4d1487af993da8e33794f0d1328.js",
     "service-worker.js": "/react_static-list-of-posts/service-worker.js",
-    "static/css/main.64d3b84c.chunk.css.map": "/react_static-list-of-posts/static/css/main.64d3b84c.chunk.css.map"
+    "static/css/main.15b91403.chunk.css.map": "/react_static-list-of-posts/static/css/main.15b91403.chunk.css.map"
   }
 }
